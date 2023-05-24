@@ -1,0 +1,15 @@
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\bin\Debug\net6.0\SistemaDePedidos.exe
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\bin\Debug\net6.0\SistemaDePedidos.deps.json
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\bin\Debug\net6.0\SistemaDePedidos.runtimeconfig.json
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\bin\Debug\net6.0\SistemaDePedidos.dll
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\bin\Debug\net6.0\SistemaDePedidos.pdb
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.csproj.AssemblyReference.cache
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.AssemblyInfoInputs.cache
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.AssemblyInfo.cs
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.dll
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\refint\SistemaDePedidos.dll
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.pdb
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\SistemaDePedidos.genruntimeconfig.cache
+C:\Users\bruna.silva\source\repos\2-Desafio\SistemaDePedidos\obj\Debug\net6.0\ref\SistemaDePedidos.dll
